@@ -12,12 +12,12 @@
 * `git clone https://github.com/mustafa123jan/FB_Vid_Downloader.git`
 * `FB_Vid_Downloader`
 
-#### > Run : `python fb_video.py`
+#### > Run : `python FbVideo.py`
 
 
 ## Single Command :
 ```
-apt update ; apt install git python python2 -y ; git clone https://github.com/mustafa123jan/FB_Vid_Downloader.git ; cd FB_Vid_Downloader ; python fb_video.py
+apt update ; apt install git python python2 -y ; git clone https://github.com/mustafa123jan/FB_Vid_Downloader.git ; cd FB_Vid_Downloader ; python FbVideo.py
 ```
 #### A simple and easy video downloader for Facebook
 ### I am Not Responsible for the Misuse of this Tool !!
